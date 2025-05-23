@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedLoop_Sort", "NestedLo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedLoop_Shape", "NestedLoop_Shape\NestedLoop_Shape.csproj", "{F7CDD6A3-B95E-4C76-B3C3-26E192B7D7E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{7A1F70CF-64BD-49AA-8117-B23D7C4FF255}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{F7CDD6A3-B95E-4C76-B3C3-26E192B7D7E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7CDD6A3-B95E-4C76-B3C3-26E192B7D7E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7CDD6A3-B95E-4C76-B3C3-26E192B7D7E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A1F70CF-64BD-49AA-8117-B23D7C4FF255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1F70CF-64BD-49AA-8117-B23D7C4FF255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1F70CF-64BD-49AA-8117-B23D7C4FF255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1F70CF-64BD-49AA-8117-B23D7C4FF255}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
